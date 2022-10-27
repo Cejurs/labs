@@ -1,0 +1,14 @@
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB3\bin\Debug\LAB4.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\bin\Debug\LAB4.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\bin\Debug\LAB4.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.csprojResolveAssemblyReference.cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.FormMain.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.Properties.Resources.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.Cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB4\LAB4\obj\Debug\LAB4.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB5\LAB4\bin\Debug\LAB4.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB5\LAB4\obj\Debug\LAB4.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB5\LAB4\obj\Debug\LAB4.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB5\LAB4\bin\Debug\LAB5.exe.config

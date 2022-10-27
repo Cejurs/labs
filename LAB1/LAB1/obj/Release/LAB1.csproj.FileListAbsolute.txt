@@ -1,0 +1,11 @@
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\bin\Release\LAB1.exe.config
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\bin\Release\LAB1.exe
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\bin\Release\LAB1.pdb
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.csproj.AssemblyReference.cache
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.FormMain.resources
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.Properties.Resources.resources
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.csproj.GenerateResource.cache
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.exe
+C:\Users\Cejurs\Desktop\Папка с папками\Формальные языки и трансляторы\Образцы выполнения лабораторных работ\LAB1\LAB1\obj\Release\LAB1.pdb

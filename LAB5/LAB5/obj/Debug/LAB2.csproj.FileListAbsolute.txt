@@ -1,0 +1,25 @@
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.csproj.GenerateResource.Cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.FormMain.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\bin\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB1\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2 - копия\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.FormMain.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.Cache
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB3\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB3\LAB2\obj\Debug\LAB2.exe
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB3\LAB2\obj\Debug\LAB2.pdb
+C:\Users\Kasimov\Documents\Visual Studio 2013\Projects\LAB3\LAB2\bin\Debug\LAB3.exe.config
